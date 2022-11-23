@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+    background-image: url(Cosmic-Gradient-14.jpg);
+    background-size: cover;
+}
+
+.logo{
+    margin-right: 22vw;
+    margin-left: 8vw;
+    width: 10vw;
+    height: auto;
+}
+.search{
+    width: 1rem;
+    margin-right: 8vw;
+    margin-left: 35vw;
+}
+.flexbox-top{
+    color: white;
+    gap: 20px;
+}
+.flex-container-top{
+    display: flex;
+    background-color: #362d5a80;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    height: 6rem;
+}
+.item1{
+    padding-right: 0vw;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+}
+
+.flexbox-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+.flex-container-center{
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 75vh;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 40px 0.5rem #ffffff;
+    text-align: justify;
+    
+}
+h1{
+    margin-left: 4%;
+    margin-top: 4%;
+}
+p{
+    margin: 4%;
+}
